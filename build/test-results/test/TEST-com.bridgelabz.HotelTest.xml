@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.bridgelabz.HotelTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-08-04T04:08:52" hostname="NIHARIKA" time="0.042">
+  <properties/>
+  <testcase name="givenHotelName_And_RegularCustomerRates_ShouldAddHotel" classname="com.bridgelabz.HotelTest" time="0.042"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
